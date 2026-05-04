@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+*.pyc
+.streamlit/
+Screenshot*.png
+test_btn.py
+data/comments.csv
